@@ -1,0 +1,35 @@
+Swapping 
+a=10
+b=20
+a,b=b,a
+print("a=",a)
+a=20
+print("b=",b)
+b=10
+
+Square program.
+a=2
+square=a**2
+print("Square of a:",square)
+square of a:4
+
+simple intrest
+p=float(input("enter principle:"))
+r=float(input("enter rate:"))
+t=float(input(enter time:"))
+si=(p*r*t)/100
+print(simple intrest=",si)
+
+simple calculator
+a=int(input("enter first number:"))
+enter first number:10
+b=int(input("enter second number:"))
+enter second number:20
+print("sum=",a+b)
+sum=30
+print("difference=",a-b)
+difference=-10
+print("product=",a*b)
+product=200
+print("division=",a/b)
+division=0.5
